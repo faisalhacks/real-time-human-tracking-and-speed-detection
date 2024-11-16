@@ -49,7 +49,7 @@ This project has the following use cases:
 
 You can try out this project directly on Google Colab by clicking the button below. It will open the Colab notebook, where you can run the project step-by-step.
 
-[![Open in Colab](https://colab.research.google.com/drive/1fZM7lfnycho0cGA8RnlzEbvnMH650dxR?usp=sharing)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fZM7lfnycho0cGA8RnlzEbvnMH650dxR?usp=sharing)
 
 ---
 
